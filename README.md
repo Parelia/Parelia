@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Parelia
-- 👀 I’m interested in game programming
-- 🌱 I’m currently studying Computer Engineering at Università degli Studi di Padova
+- 👀 I’m interested in game programming, AI and robotics
+- 🌱 I’m studying for a Master Degree in Computer Engineering at Università degli Studi di Padova
 - 💞️ I’m looking to collaborate with Elon Musk, that bot deserves an update...
 - 📫 How to reach me: eliparu02@gmail.com
 
